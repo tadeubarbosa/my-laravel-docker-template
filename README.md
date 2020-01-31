@@ -2,7 +2,7 @@
 My laravel docker template
 
 ## Install on Ubuntu 18, 19
-### follow these instructions: https://www.digitalocean.com/community/tutorials/como-instalar-e-usar-o-docker-no-ubuntu-18-04-pt
+### follow [these instructions](https://www.digitalocean.com/community/tutorials/como-instalar-e-usar-o-docker-no-ubuntu-18-04-pt)
 ```
   sudo apt update
   sudo apt install apt-transport-https ca-certificates curl software-properties-common
